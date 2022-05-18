@@ -101,5 +101,5 @@ const welcomePage = `
 </html>
 `
 
-const calculatorPage = (result) => { return `calculator test: ${result}` }
+const calculatorPage = (result) => { return `calculator result: ${result}` }
 export default {welcomePage, calculatorPage};
